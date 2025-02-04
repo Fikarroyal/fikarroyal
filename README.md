@@ -18,16 +18,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 
 ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 **Passionate about**:  
-- 🌐 **Machine Learning**  
-- 🌐 **Cyber Security**  
-- 🌐 **Data Analyst**
+- 🌐 **AI Engineering**
+- 🌐 **iOS Developer**
+- 🌐 **Cyber Security**
 
 ### 🚀 About Me
 - 🔭 **Currently exploring** the exciting intersection of **AI** and **Cyber Security** to create smarter, more efficient systems.  
