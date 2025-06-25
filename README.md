@@ -43,10 +43,7 @@
 </a>
 </p>
 
-### 📫 How to reach me
+### How to contact me
 - **Email**: [fikarrosyid3@gmail.com](mailto:fikarrosyid3@gmail.com)  
-- **LinkedIn**: [Fikar Rosyid](https://www.linkedin.com/in/fikarrosyid/)
-
-### 😄 Pronouns: He 
-### ⚡ Fun fact: I enjoy exploring new tech stacks and tackling challenging projects!
+- **LinkedIn**: [fikarrosyid](https://www.linkedin.com/in/fikarrosyid/)
 
