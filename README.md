@@ -26,14 +26,14 @@
 </div>
 
 **Passionate about**:  
-- 🌐 **AI Engineering**
-- 🌐 **iOS Developer**
-- 🌐 **Cyber Security**
+- **AI Engineer**
+- **Full Stack Developer**
+- **Cyber Security**
 
-### 🚀 About Me
-- 🔭 **Currently exploring** the exciting intersection of **AI** and **Cyber Security** to create smarter, more efficient systems.  
-- 🌱 **Learning and growing** in Cyber Security and its integration with AI platforms for innovative solutions.  
-- 💼 Always on the lookout for collaboration opportunities in **Cyber Security** or **Capture The Flag**.
+### About Me
+- Zzz
+- Zzz
+- Zzz
 
 ### Github Statistic
 <p align="left">
