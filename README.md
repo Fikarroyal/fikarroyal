@@ -30,11 +30,6 @@
 - **Full Stack Developer**
 - **Cyber Security**
 
-### About Me
-- Zzz
-- Zzz
-- Zzz
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Fikarroyal">
