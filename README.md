@@ -27,8 +27,9 @@
 
 ### Passionate about:  
 - **AI Engineer**
-- **Full Stack Developer**
-- **Cyber Security**
+- **Software Engineer**
+- **Web Developer**
+- **Technical Support**
 
 ### Github Statistic
 <p align="left">
